@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **FOSS**
 
-- 📫 How to reach me **Dua.tejasv@gmail.com**
+- 📫 You can reach me out on **Dua.tejasv@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Nh9SwimzMcVSWZIT7SPakfiEB2zEipC8/view?usp=sharing](https://drive.google.com/file/d/1Nh9SwimzMcVSWZIT7SPakfiEB2zEipC8/view?usp=sharing)
 
