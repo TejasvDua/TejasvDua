@@ -7,7 +7,7 @@
 
 - 📫 You can reach me out on **Dua.tejasv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Nh9SwimzMcVSWZIT7SPakfiEB2zEipC8/view?usp=sharing](https://drive.google.com/file/d/1Nh9SwimzMcVSWZIT7SPakfiEB2zEipC8/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1sAle-BY5f7KM6vRM-3_vJ1zn4rOn5igy/view"/>here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
