@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Web Dev and Cloud**
 
-- 👯 I’m looking to collaborate on **FOSS**
-
 - 📫 You can reach me out on **Dua.tejasv@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1sAle-BY5f7KM6vRM-3_vJ1zn4rOn5igy/view"/>here</a>
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/tejasv-dua/"/>here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
