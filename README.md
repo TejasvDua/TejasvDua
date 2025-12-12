@@ -1,19 +1,41 @@
 # 👋 Hi, I'm Tejasv Dua
 
-**🎓 Final-year Computer Science student (Information Security) at VIT Vellore**  
-**🌐 Frontend Developer || Cybersecurity**
+**☁️ Cloud Solution Architect @ EMB Global (AWS | GCP)**  
+**🎓 Computer Science Graduate (Information Security) – VIT Vellore**  
+**🔐 Acknowledged Security Researcher & RVDP Contributor @ NCIIPC (NTRO)**  
+**💼 Ex-MPSeDC | Ex-Airports Authority of India (CNS/IT)**  
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🌱 I’m currently diving deeper into **Web Development** and **Cloud Technologies**
-- 🔐 Background in **Cybersecurity**, including experience with tools like Wireshark, Nmap, and IDA Pro
-- 💼 Former Intern at **Airports Authority of India** (Cybersecurity) & **Collab Junction** (Web Development)
-- 🧠 Passionate about **building secure, scalable, and responsive web applications**
-- 📫 Reach me at: [dua.tejasv@gmail.com](mailto:dua.tejasv@gmail.com)
+- ☁️ Working as a **Cloud Solution Architect**, building and exploring solutions on **AWS** & **GCP**
+- 🌱 Currently diving deeper into **Web Development**, **Cloud Technologies**, and **Secure System Architecture**
+- 🔐 **Security Researcher & RVDP Contributor**, with practical experience in:
+  - Network security & application security  
+  - Tools like **Wireshark, Nmap, Burp Suite, IDA Pro**
+  - Vulnerability research and responsible disclosure
+- 💼 Previous work experience includes:
+  - **MPSeDC** – Security Audit  
+  - **Airports Authority of India (CNS/IT)** – Cybersecurity  
+- 🧠 Passionate about building **secure**, **scalable**, and **high-performance** systems
 
 ---
+
+## 🛠️ Tech Stack
+
+### **Cloud**
+- AWS • GCP
+
+### **Development**
+- HTML • CSS • JavaScript • React
+
+### **Cybersecurity**
+- Vulnerability Research • Network Analysis  
+- Wireshark • Burp Suite • Nmap • IDA Pro  
+
+
+⭐ _Feel free to explore my repositories or connect for collaborations!_
 
 ### 🛠️ Languages & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -31,20 +53,6 @@
 
 ---
 
-### 💼 Projects
-
-- **💸 AI-powered Financial Chatbot**: Extracts and analyzes 10-K/10-Q reports using Python and NLP  
-- **🖥️ Portfolio Website**: Fully responsive personal portfolio built with HTML, CSS, JS & Node.js  
-- **🔐 Malware Analysis Tools**: Experience with tools like PEiD, IDA Pro, VirusTotal, Ghidra, and Burp Suite
-
----
-
-### 📜 Certifications
-
-- 🧠 Microsoft Certified: Azure AI Fundamentals  
-- 📊 Stanford - Machine Learning (Prof. Andrew Ng)
-
----
 
 ### 🤝 Let's Connect
 
