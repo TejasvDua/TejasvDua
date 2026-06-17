@@ -5,7 +5,7 @@
 **🔐 Acknowledged Security Researcher & RVDP Contributor @ NCIIPC (NTRO)**  
 **💼 Ex-MPSeDC | Ex-Airports Authority of India (CNS/IT)**  
 
-<img width="880" height="192" alt="github-contribution-grid-snake-dark" src="https://github.com/user-attachments/assets/382f6781-15e7-49d5-a65b-2587649cd418" /><svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>G
+<img width="880" height="192" alt="github-contribution-grid-snake-dark" src="https://github.com/user-attachments/assets/382f6781-15e7-49d5-a65b-2587649cd418" /><svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>
 
 ## 🚀 About Me
 
